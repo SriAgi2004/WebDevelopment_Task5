@@ -1,7 +1,7 @@
 A simple and interactive To-Do List web application built using HTML, CSS, and Vanilla JavaScript. This project allows users to manage their daily tasks efficiently by adding, completing, and deleting tasks in real time without page reload.
 
  -Add tasks dynamically with auto numbering (Task 1, Task 2, ...)
- -Mark tasks as complete with a professional tick emoji
+ -Mark tasks as complete with a professional emoji
  -Remove tasks with a dedicated delete button
  -Add timestamp: shows date and time for each task
  -Shows Completed and Pending task counts
